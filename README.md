@@ -10,4 +10,4 @@ What can you do in this project?
 </ul> <br/>
 
 ### `Check out Project`
-You can run shopping cart app. [Show Project](https://my-first-react-application.netlify.com).
+You can run shopping cart app. [Show Project](https://js-shopping-cart-design.netlify.app/).
